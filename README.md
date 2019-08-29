@@ -12,3 +12,4 @@ Vitor Hugo Guerra Silva
 RA 1900596
 
 # alteração para o fetch
+#alteração para o pull
